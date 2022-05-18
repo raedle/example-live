@@ -3,7 +3,7 @@ Each PyTorch machine learning model included in the PyTorch Live App is accompan
 
 ## List of ML models
 
-| Model                                              | Documentation                                      |
+| Model                                              | Model Documentation                                |
 |----------------------------------------------------|----------------------------------------------------|
 | [bert_qa.ptl][model_bert_qa]                       | [distilbert-base-uncased-distilled-squad][bert_qa] |
 | [deeplab_v3.ptl][model_deeplab_v3]                 | [pytorch/vision][pytorch/vision]                   |
