@@ -3,7 +3,7 @@ Each PyTorch machine learning model included in the PyTorch Live App is accompan
 
 ## List of ML models
 
-| Model                                              | Link to original model source                      | License                                 | Link to license                                                                    |
+| Model                                              | Documentation                                      | License                                 | Link to license                                                                    |
 |----------------------------------------------------|----------------------------------------------------|-----------------------------------------|------------------------------------------------------------------------------------|
 | [bert_qa.ptl][model_bert_qa]                       | [distilbert-base-uncased-distilled-squad][bert_qa] | apache-2.0                              | https://huggingface.co/distilbert-base-uncased-distilled-squad/blob/main/README.md |
 | [deeplab_v3.ptl][model_deeplab_v3]                 | [pytorch/vision][pytorch/vision]                   | BSD 3-Clause "New" or "Revised" License | https://github.com/pytorch/vision/blob/main/LICENSE                                |
